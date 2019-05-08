@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Role Name
 =========
 
-A brief description of the role goes here.
+Ansible role to install jenkins, git, maven
 
 Requirements
 ------------
